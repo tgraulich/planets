@@ -6,3 +6,7 @@ dependencies:
   - numpy
   - click
   - matplotlib
+  - myst-parser
+  - sphinx
+  - sphinx-rtd-theme
+  - sphinx-autoapi
